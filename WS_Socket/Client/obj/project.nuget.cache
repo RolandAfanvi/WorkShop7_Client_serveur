@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ipy+zxBRKnk7LuYJ77/lYoF+Tq6nDYLUSeNd9a6Ro1zV4EBku4O/yXEu42NfQV16lGDaeuFLlJu8kNj31GKZNA==",
+  "dgSpecHash": "+Roo/cXwwhsbZLG0rcRT6x1iQcXJsa8y3Kh9GoiBAs/wBvPYs41PUr7YOCZoA19jpShug5lYwekl6jS1sf+wEQ==",
   "success": true,
-  "projectFilePath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Client/Client.csproj",
+  "projectFilePath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Client/Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

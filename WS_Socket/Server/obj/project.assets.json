@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/Server.csproj",
+      "projectUniqueName": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/Server.csproj",
+      "projectPath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/Server.csproj",
       "packagesPath": "/Users/roland/.nuget/packages/",
-      "outputPath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/obj/",
+      "outputPath": "/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/roland/.nuget/NuGet/NuGet.Config"

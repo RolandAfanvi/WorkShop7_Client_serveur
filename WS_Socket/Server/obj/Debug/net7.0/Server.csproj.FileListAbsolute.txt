@@ -12,3 +12,17 @@
 /Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/obj/Debug/net7.0/Server.pdb
 /Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
 /Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/WS_Socket/Server/obj/Debug/net7.0/ref/Server.dll
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/bin/Debug/net7.0/Server
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/bin/Debug/net7.0/Server.deps.json
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/bin/Debug/net7.0/Server.runtimeconfig.json
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/bin/Debug/net7.0/Server.dll
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/bin/Debug/net7.0/Server.pdb
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.AssemblyInfo.cs
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.dll
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/refint/Server.dll
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.pdb
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
+/Users/roland/Documents/CESI/A3/ProgrammationSystème/WorkShop/Client_Serveur/Client_serveur/WS_Socket/Server/obj/Debug/net7.0/ref/Server.dll
